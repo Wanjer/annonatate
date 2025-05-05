@@ -15,6 +15,12 @@
             "title": "2",
             "description": "",
             "thumbnail": ""
+        },
+        {
+            "board": "<iiif-annotation annotationurl='https://wanjer.github.io/annonatate/annotations/200015675-5-list.json'></iiif-annotation>",
+            "title": "",
+            "description": "",
+            "thumbnail": ""
         }
     ]
 }
