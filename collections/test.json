@@ -1,0 +1,14 @@
+---
+---
+{
+    "label": "test",
+    "type": "storyboardlist",
+    "items": [
+        {
+            "board": "<iiif-annotation annotationurl='https://wanjer.github.io/annonatate/annotations/200015675-2-list.json'></iiif-annotation>",
+            "title": "1",
+            "description": "",
+            "thumbnail": ""
+        }
+    ]
+}
