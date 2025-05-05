@@ -21,6 +21,12 @@
             "title": "",
             "description": "",
             "thumbnail": ""
+        },
+        {
+            "board": "<iiif-annotation annotationurl='https://wanjer.github.io/annonatate/annotations/100053384-6-list.json'></iiif-annotation>",
+            "title": "urashima",
+            "description": "",
+            "thumbnail": ""
         }
     ]
 }
