@@ -27,6 +27,12 @@
             "title": "urashima",
             "description": "",
             "thumbnail": ""
+        },
+        {
+            "board": "<iiif-storyboard url='https://kokusho.nijl.ac.jp/biblio/100053384/manifest' styling='zoom: -3657.399999999999,0,11770.8,4616;'></iiif-storyboard>",
+            "title": "",
+            "description": "",
+            "thumbnail": ""
         }
     ]
 }
