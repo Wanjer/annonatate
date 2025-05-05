@@ -1,0 +1,47 @@
+---
+canvas: "https://kokusho.nijl.ac.jp/biblio/100053384/canvas/6"
+order: 1
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "laquer box",
+            "purpose": "classifying",
+            "creator": {
+                "id": "Wanjer",
+                "name": "Wanjer"
+            },
+            "created": "2025-05-05T15:53:48.788Z",
+            "modified": "2025-05-05T15:53:58.866Z"
+        },
+        {
+            "type": "TextualBody",
+            "purpose": "tagging",
+            "value": "object",
+            "creator": {
+                "id": "Wanjer",
+                "name": "Wanjer"
+            },
+            "created": "2025-05-05T15:53:56.436Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://wanjer.github.io/annonatate/manifests/biblio/100053384/manifest.json",
+                "type": "Manifest"
+            },
+            "id": "https://kokusho.nijl.ac.jp/biblio/100053384/canvas/6",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"2330.5537109375,2523.241455078125 2333.072265625,2710.47216796875 2595.31689453125,2786.540771484375 2823.927490234375,2717.78173828125 2813.402587890625,2478.935791015625 2599.891845703125,2392.24853515625\"></polygon></svg>"
+        }
+    },
+    "id": "694c2f8c-7ab9-4798-9d39-20943d9b0463.json",
+    "motivation": "commenting"
+}
