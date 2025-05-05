@@ -1,0 +1,47 @@
+---
+canvas: "https://kokusho.nijl.ac.jp/biblio/200015675/canvas/21"
+order: 2
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "palanquin",
+            "purpose": "classifying",
+            "creator": {
+                "id": "Wanjer",
+                "name": "Wanjer"
+            },
+            "created": "2025-05-05T05:51:49.239Z",
+            "modified": "2025-05-05T05:51:53.312Z"
+        },
+        {
+            "type": "TextualBody",
+            "purpose": "tagging",
+            "value": "object",
+            "creator": {
+                "id": "Wanjer",
+                "name": "Wanjer"
+            },
+            "created": "2025-05-05T05:51:57.464Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://wanjer.github.io/annonatate/manifests/biblio/200015675/manifest.json",
+                "type": "Manifest"
+            },
+            "id": "https://kokusho.nijl.ac.jp/biblio/200015675/canvas/21",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"2888.076171875,1882.6768798828125 2893.41455078125,1882.6768798828125 2882.73779296875,2005.460205078125 3315.1484375,2149.59716796875 3299.13330078125,3019.7568359375 3897.034423828125,3276.000244140625 3955.7568359375,3195.924072265625 4078.5400390625,3169.232177734375 4147.939453125,3217.277587890625 4265.38427734375,2555.315673828125 4532.30419921875,2656.745361328125 4542.98095703125,2563.35595703125 4340.12158203125,2453.885986328125 4334.783203125,2357.794677734375 3646.12939453125,2053.505859375 3443.27001953125,2048.16748046875 3405.9013671875,2074.859375 3085.59716796875,1962.7529296875\"></polygon></svg>"
+        }
+    },
+    "id": "e96d0ada-34e5-417b-b819-6b3498fb90c9.json",
+    "motivation": "commenting"
+}
