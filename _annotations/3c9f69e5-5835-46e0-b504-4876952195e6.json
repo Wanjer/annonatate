@@ -1,0 +1,47 @@
+---
+canvas: "https://kokusho.nijl.ac.jp/biblio/200015675/canvas/3"
+order: 1
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Dragon fan",
+            "purpose": "classifying",
+            "creator": {
+                "id": "Wanjer",
+                "name": "Wanjer"
+            },
+            "created": "2025-05-05T03:19:11.384Z",
+            "modified": "2025-05-05T03:19:23.793Z"
+        },
+        {
+            "type": "TextualBody",
+            "purpose": "tagging",
+            "value": "object",
+            "creator": {
+                "id": "Wanjer",
+                "name": "Wanjer"
+            },
+            "created": "2025-05-05T03:19:16.469Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://kokusho.nijl.ac.jp/biblio/200015675/manifest",
+                "type": "Manifest"
+            },
+            "id": "https://kokusho.nijl.ac.jp/biblio/200015675/canvas/3",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"2968.2,1829.3 3117.6,1450.3 3736.9,825.7 4414.9,676.2 4511,724.2 4489.6,1525 3945.1,2085.5 3475.3,1962.8\"></polygon></svg>"
+        }
+    },
+    "id": "3c9f69e5-5835-46e0-b504-4876952195e6.json",
+    "motivation": "commenting"
+}
