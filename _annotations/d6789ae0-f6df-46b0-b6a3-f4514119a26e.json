@@ -1,0 +1,48 @@
+---
+canvas: "https://kokusho.nijl.ac.jp/biblio/200015675/canvas/21"
+order: 1
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "full page",
+            "purpose": "classifying",
+            "creator": {
+                "id": "Wanjer",
+                "name": "Wanjer"
+            },
+            "created": "2025-05-05T05:50:45.698Z",
+            "modified": "2025-05-05T05:51:00.212Z"
+        },
+        {
+            "type": "TextualBody",
+            "purpose": "tagging",
+            "value": "composition",
+            "creator": {
+                "id": "Wanjer",
+                "name": "Wanjer"
+            },
+            "created": "2025-05-05T05:50:51.987Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://wanjer.github.io/annonatate/manifests/biblio/200015675/manifest.json",
+                "type": "Manifest"
+            },
+            "id": "https://kokusho.nijl.ac.jp/biblio/200015675/canvas/21",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1057.0037841796875,681.5361938476562,3523.3463134765625,2658.5248413085938"
+        }
+    },
+    "id": "d6789ae0-f6df-46b0-b6a3-f4514119a26e.json",
+    "motivation": "commenting"
+}
