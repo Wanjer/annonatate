@@ -1,0 +1,47 @@
+---
+canvas: "https://kokusho.nijl.ac.jp/biblio/200015675/canvas/2"
+order: 1
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Mirror",
+            "purpose": "commenting",
+            "creator": {
+                "id": "Wanjer",
+                "name": "Wanjer"
+            },
+            "created": "2025-05-05T03:17:59.220Z",
+            "modified": "2025-05-05T03:17:59.871Z"
+        },
+        {
+            "type": "TextualBody",
+            "purpose": "tagging",
+            "value": "object",
+            "creator": {
+                "id": "Wanjer",
+                "name": "Wanjer"
+            },
+            "created": "2025-05-05T03:18:05.026Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://kokusho.nijl.ac.jp/biblio/200015675/manifest",
+                "type": "Manifest"
+            },
+            "id": "https://kokusho.nijl.ac.jp/biblio/200015675/canvas/2",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"1163.7718505859375,1407.5589599609375 1532.1217041015625,1407.5589599609375 1911.1483154296875,2571.330810546875 1190.4638671875,2667.422119140625 1078.357421875,1428.91259765625 1099.7110595703125,1428.91259765625 1099.7110595703125,1428.91259765625\"></polygon></svg>"
+        }
+    },
+    "id": "f7550ee7-1c21-4f31-be6c-1d2811d3f005.json",
+    "motivation": "commenting"
+}
