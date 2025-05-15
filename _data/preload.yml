@@ -1,3 +1,9 @@
-images: []
+images:
+- added: '2025-05-15 07:14:27.434923'
+  iiif: true
+  thumbnail: https://kokusho.nijl.ac.jp/api/iiif/100130998/v4/0025/0025-0107026/0025-0107026-0000.tif/full/120,/0/default.jpg
+  title: "\u9EC4\u91D1\u82B1\u54B2\u9678\u5965\u5E16"
+  url: https://kokusho.nijl.ac.jp/biblio/100130998/manifest
+  user: Wanjer
 settings: {}
 version: '2.1'
