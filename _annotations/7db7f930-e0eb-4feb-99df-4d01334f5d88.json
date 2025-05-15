@@ -1,0 +1,47 @@
+---
+canvas: "https://kokusho.nijl.ac.jp/biblio/100130998/canvas/4"
+order: 1
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "star constellation - associated with northern japan?",
+            "purpose": "commenting",
+            "creator": {
+                "id": "Wanjer",
+                "name": "Wanjer"
+            },
+            "created": "2025-05-15T07:15:25.815Z",
+            "modified": "2025-05-15T07:15:55.998Z"
+        },
+        {
+            "type": "TextualBody",
+            "purpose": "tagging",
+            "value": "problem",
+            "creator": {
+                "id": "Wanjer",
+                "name": "Wanjer"
+            },
+            "created": "2025-05-15T07:17:20.504Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://kokusho.nijl.ac.jp/biblio/100130998/manifest",
+                "type": "Manifest"
+            },
+            "id": "https://kokusho.nijl.ac.jp/biblio/100130998/canvas/4",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"2540.080078125,712.4259643554688 2532.122802734375,964.270263671875 3814.08447265625,974.7091064453125 3814.02099609375,700.9509887695312 3061.197021484375,673.2153930664062 3061.366455078125,673.33447265625\"></polygon></svg>"
+        }
+    },
+    "id": "7db7f930-e0eb-4feb-99df-4d01334f5d88.json",
+    "motivation": "commenting"
+}
