@@ -1,0 +1,47 @@
+---
+canvas: "https://kokusho.nijl.ac.jp/biblio/100130998/canvas/5"
+order: 1
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Fortress Koromogawa",
+            "purpose": "commenting",
+            "creator": {
+                "id": "Wanjer",
+                "name": "Wanjer"
+            },
+            "created": "2025-05-15T07:23:10.252Z",
+            "modified": "2025-05-15T07:23:13.491Z"
+        },
+        {
+            "type": "TextualBody",
+            "purpose": "tagging",
+            "value": "location",
+            "creator": {
+                "id": "Wanjer",
+                "name": "Wanjer"
+            },
+            "created": "2025-05-15T07:23:18.149Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://kokusho.nijl.ac.jp/biblio/100130998/manifest",
+                "type": "Manifest"
+            },
+            "id": "https://kokusho.nijl.ac.jp/biblio/100130998/canvas/5",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"251.82081604003906,1544.2340087890625 274.7005615234375,2336.7626953125 1405.04736328125,2226.7744140625 1381.27392578125,1489.79931640625 723.5433959960938,1521.4970703125 723.5594482421875,1521.4970703125\"></polygon></svg>"
+        }
+    },
+    "id": "0ceb739b-717a-4b21-a62e-e2bdcb3d47ff.json",
+    "motivation": "commenting"
+}
