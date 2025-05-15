@@ -3,5 +3,12 @@
 {
     "label": "Michinoku zoshi",
     "type": "storyboardlist",
-    "items": []
+    "items": [
+        {
+            "board": "<iiif-annotation annotationurl='https://wanjer.github.io/annonatate/annotations/100130998-4-list.json'></iiif-annotation>",
+            "title": "",
+            "description": "",
+            "thumbnail": ""
+        }
+    ]
 }
