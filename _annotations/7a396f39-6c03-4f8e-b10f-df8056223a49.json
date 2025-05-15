@@ -1,0 +1,47 @@
+---
+canvas: "https://kokusho.nijl.ac.jp/biblio/100130998/canvas/4"
+order: 4
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "A tray with a letter? by Miyagino's lover Yoshiie?",
+            "purpose": "commenting",
+            "creator": {
+                "id": "Wanjer",
+                "name": "Wanjer"
+            },
+            "created": "2025-05-15T07:20:44.531Z",
+            "modified": "2025-05-15T07:21:07.413Z"
+        },
+        {
+            "type": "TextualBody",
+            "purpose": "tagging",
+            "value": "object",
+            "creator": {
+                "id": "Wanjer",
+                "name": "Wanjer"
+            },
+            "created": "2025-05-15T07:21:12.423Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://kokusho.nijl.ac.jp/biblio/100130998/manifest",
+                "type": "Manifest"
+            },
+            "id": "https://kokusho.nijl.ac.jp/biblio/100130998/canvas/4",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"420.886962890625,2062.71337890625 101.47297668457031,2266.396728515625 259.9622497558594,2409.037109375 260.2792663574219,2753.751220703125 569.3343505859375,2801.298095703125 839.1270141601562,2761.67578125 783.9839477539062,2476.39501953125 962.2857055664062,2210.925537109375 962.2857055664062,2210.925537109375\"></polygon></svg>"
+        }
+    },
+    "id": "7a396f39-6c03-4f8e-b10f-df8056223a49.json",
+    "motivation": "commenting"
+}
